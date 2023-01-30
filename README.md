@@ -15,7 +15,7 @@
 }
 ```
 
-## result : 
+## Result : 
 ```
 "Pizza base creme, with tomato topping, with cheese topping, prix 12"
 ```
