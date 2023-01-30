@@ -1,6 +1,6 @@
 # DesignPatternTP.
 
-###localhost:5000/api/v1/pizza
+### localhost:5000/api/v1/pizza
 
 
 
@@ -15,5 +15,7 @@
 }
 ```
 
-result : 
+## result : 
+```
 "Pizza base creme, with tomato topping, with cheese topping, prix 12"
+```
